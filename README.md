@@ -20,7 +20,7 @@
 
      * `WASD` to move
      * `◀︎ or ▶︎` (Left/Right) directional keys to rotate camera.
-     * `M` to display the map, &nbsp;&nbsp; ⚠️ &nbsp;&nbsp; only in bonus.
+     * `M` to display the map, &nbsp;&nbsp; ⚠️ &nbsp;&nbsp; **only in bonus**.
      * `ESC` or red button to quit.
 
 
