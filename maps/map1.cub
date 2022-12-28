@@ -1,9 +1,10 @@
-R 1080 720
-NO ./assets/wolf3d/greystone.XPM
+
+
+NO ./assets/wolf3d/grey_stone.XPM
 SO ./assets/wolf3d/redbrick.XPM
-EA ./assets/wolf3d/purplestone.XPM
+EA ./assets/wolf3d/purple_stone.XPM
 WE ./assets/wolf3d/eagle.XPM
-S ./wolftex/textures/xpm/barrel.xpm
+S ./Wolf_tex/textures/xpm/barrel.xpm
 C 255,200,160
 F 122,122,122
 
