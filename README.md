@@ -1,7 +1,7 @@
 ## 42_cub3D 🪖
 
 * ### ℹ️&nbsp;&nbsp; general information
-  * `Cub3D` is a project to **reproduce** the game dynamics of **Wolfstein** 3D.
+  * `Cub3D` is a project to **reproduce** the game dynamics of **Wolfenstein** 3D.
   * The project is done in groups of two people, in the `C language`.
   * Mathematical notions are approached in this project, such as `ray-casting`.
   * window management, reminiscent of the so_long project, these notions are recalled in cub3D.
