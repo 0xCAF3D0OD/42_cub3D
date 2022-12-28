@@ -1,3 +1,5 @@
+![Collage](https://user-images.githubusercontent.com/92105776/209867231-7a710d1a-8fe8-405e-86aa-5ec75df0fd2a.jpg)
+
 ## 42_cub3D 🪖
 
 * ### ℹ️&nbsp;&nbsp; general information
